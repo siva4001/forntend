@@ -1,0 +1,24 @@
+/* h6 {
+    color: cadetblue;
+} */
+p {
+    color: brown;
+}
+
+.demoline {
+    color: chartreuse;
+}
+
+#parareaph {
+    color: cornflowerblue;
+
+}
+
+* {
+    font-size: 30px;
+}
+
+.demoline,
+#parareaph {
+    color: rgb(34, 163, 163);
+}

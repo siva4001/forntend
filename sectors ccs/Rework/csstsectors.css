@@ -1,0 +1,24 @@
+/* h6{
+    color: cornflowerblue;
+} */
+
+h3 {
+    color: aquamarine;
+}
+
+.mypara {
+    color: blue;
+}
+
+#demoline {
+    color: blue;
+}
+
+* {
+    font-size: 30px;
+}
+
+.mypara,
+#demoline {
+    font-style: inherit;
+}
