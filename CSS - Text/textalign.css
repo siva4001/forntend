@@ -1,0 +1,69 @@
+.mypara {
+    color: aqua;
+    text-align: center;
+}
+
+.newtext {
+    text-align-last: center;
+}
+
+.inches {
+
+    word-spacing: 1cm;
+    line-height: 30px;
+    color: rebeccapurple
+}
+
+.headoffice {
+    text-indent: 200px;
+    text-indent: 15cm;
+}
+
+
+
+.mywords {
+    white-space: pre;
+}
+
+.mywords2 {
+    white-space: nowrap;
+}
+
+.mywords3 {
+    white-space: wrap;
+}
+
+.linefromatioms {
+    text-transform: lowercase;
+}
+
+.capitall {
+    text-transform: capitalize;
+}
+
+.normallines {
+    text-transform: uppercase;
+}
+
+.head {
+    text-decoration-line: overline;
+    text-decoration-style: dashed;
+    text-decoration-color: aqua;
+    text-decoration-thickness: 2px;
+}
+
+.space {
+    padding: 10px;
+    padding-left: 10px;
+    border: 2px solid rebeccapurple;
+}
+
+.learn {
+    height: 150px;
+    width: 250px;
+    border: 5px solid rebeccapurple;
+}
+
+.gound {
+    text-shadow: 3px 3px rgb(21, 52, 144);
+}
