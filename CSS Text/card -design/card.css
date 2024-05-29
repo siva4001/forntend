@@ -1,0 +1,23 @@
+.twitter {
+    text-align: center;
+}
+
+.card {
+    border: 2px solid rebeccapurple;
+    height: 300px;
+    width: 275px;
+}
+
+.mypara {
+    text-align: justify;
+    padding: 8px;
+}
+
+.but {
+    margin-left: 35%;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    border-style: none;
+
+}
