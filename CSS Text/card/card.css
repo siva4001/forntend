@@ -1,0 +1,60 @@
+.twitter {
+    text-align: center;
+}
+
+.card {
+    border: 2px solid black;
+    height: 297px;
+    width: 239px;
+    padding: 14px;
+}
+
+.mypara {
+    text-align: center;
+
+}
+
+.but {
+    margin-left: 15%;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    border-style: none;
+    height: 12%;
+    width: 70%;
+}
+
+.fa-twitter {
+    margin-left: 35%;
+}
+
+.fa-instagram {
+    margin-left: 35%;
+}
+
+.fa-youtube-play {
+    margin-left: 35%;
+}
+
+.new {
+    text-align: center;
+}
+
+.instagram {
+    border: 2px solid black;
+    height: 297px;
+    width: 239px;
+    padding: 14px;
+    background-color: rgb(220, 77, 158);
+    color: white;
+}
+
+.but1 {
+    margin-left: 12%;
+    border-radius: 20px;
+    background-color: white;
+    color: rgb(176, 26, 134);
+    border-style: none;
+    height: 12%;
+    width: 70%;
+}
