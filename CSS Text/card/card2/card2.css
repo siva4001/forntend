@@ -1,0 +1,38 @@
+.bor {
+    margin: auto;
+    height: 90%;
+    width: 45%;
+    border-style: groove;
+    border: 2px solid burlywood;
+    padding: 1.5%;
+}
+
+.codingninjas {
+    text-align: center;
+}
+
+.but {
+    margin-left: 30%;
+    color: white;
+    background-color: rgba(235, 109, 5, 0.918);
+    height: 30px;
+    width: 150px;
+    text-align: center;
+    border: none;
+    border-radius: 3%;
+}
+
+.but2 {
+    margin-left: 33%;
+    color: white;
+    background-color: rgba(235, 109, 5, 0.918);
+    height: 30px;
+    width: 120px;
+    text-align: center;
+    border: none;
+    border-radius: 3%;
+}
+
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
