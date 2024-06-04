@@ -1,0 +1,112 @@
+.property {
+    /* height: 300px; */
+    width: 310px;
+    border: 1px solid rgb(231, 20, 20);
+}
+
+.box {
+    height: 100px;
+    width: 120px;
+    border: 1px solid rebeccapurple;
+}
+
+.box01 {
+    height: 100px;
+    width: 150px;
+    background-color: aqua;
+}
+
+.box02 {
+    height: 100px;
+    width: 150px;
+    background-color: rgb(170, 11, 90);
+}
+
+.box03 {
+    height: 100px;
+    width: 150px;
+    background-color: rgb(49, 11, 125);
+}
+
+.box001 {
+    height: 100px;
+    width: 150px;
+    background-color: aqua;
+}
+
+.box002 {
+    height: 100px;
+    width: 150px;
+    background-color: rgb(170, 11, 90);
+    visibility: hidden;
+}
+
+.box003 {
+    height: 100px;
+    width: 150px;
+    background-color: rgb(49, 11, 125);
+    display: block;
+}
+
+.box0001 {
+    height: 100px;
+    width: 150px;
+    background-color: aqua;
+    display: none;
+}
+
+.box0002 {
+    height: 100px;
+    width: 150px;
+    background-color: rgb(170, 11, 90);
+
+}
+
+
+.sample {
+    height: 700px;
+    width: 800px;
+    border: 1px solid rgb(28, 26, 26);
+    background: url(../image/photo-1606481021733-5e269f7d87f6.avif);
+    color: aquamarine;
+}
+
+.sample01 {
+    height: 280px;
+    width: 498px;
+    border: 1px solid rgb(28, 26, 26);
+    color: white;
+    background-image: url(../image/Dragon\ Ball\ Z\ .gif)
+}
+
+.card01 {
+    font-size: xx-large;
+    height: 400px;
+    width: 350px;
+    border: solid;
+    background-image: linear-gradient(red, blue, green);
+}
+
+.card02 {
+    font-size: xx-large;
+    height: 400px;
+    width: 350px;
+    border: solid;
+    background-image: radial-gradient(pink, rgb(177, 177, 107), rgb(84, 38, 119));
+}
+
+.card03 {
+    font-size: xx-large;
+    height: 400px;
+    width: 350px;
+    border: solid;
+    background-image: conic-gradient(rgb(79, 160, 178), rgb(12, 12, 48), rgb(152, 220, 152));
+}
+
+.card04 {
+    font-size: xx-large;
+    height: 400px;
+    width: 350px;
+    border: solid;
+    background-image: repeating-radial-gradient(rgb(129, 162, 223)5%, rgb(74, 151, 196)15%, rgb(44, 135, 94)21%)
+}
