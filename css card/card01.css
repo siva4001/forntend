@@ -1,0 +1,103 @@
+.mycard {
+    margin: auto;
+    border: 1px solid none;
+    width: 850px;
+    display: flex;
+    background-color: rgb(56, 60, 69);
+    gap: 25px;
+    padding: 40px;
+}
+
+.mycard01 {
+    background-color: white;
+    border: 1px solid none;
+    height: 443px;
+    width: 269px;
+    bottom: 200px;
+    box-shadow: 17px 11px 25px;
+    border-radius: 18px;
+}
+
+.mypara {
+
+    text-align: center;
+    padding: 4px;
+
+}
+
+
+.bottom {
+
+    color: white;
+    background-color: rgb(255, 7, 110);
+    border: 1px solid none;
+    height: 45px;
+    width: 269px;
+    display: grid;
+    grid-template-columns: 89px 89px 89px;
+    grid-gap: 2px;
+    grid-auto-rows: auto;
+    padding-top: 10px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+
+}
+
+.mycard02 {
+    margin-top: -20px;
+    background-color: white;
+    border: 1px solid none;
+    height: 443px;
+    width: 269px;
+    bottom: 200px;
+    box-shadow: 17px 11px 25px;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+
+}
+
+.bottom01 {
+    color: white;
+    background-color: rgb(245, 79, 13);
+    border: 1px solid none;
+    height: 45px;
+    width: 270px;
+    display: grid;
+    grid-template-columns: 89px 89px 89px;
+    grid-auto-rows: auto;
+    padding-top: 6px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+}
+
+.mycard03 {
+    background-color: white;
+    border: 1px solid none;
+    height: 443px;
+    width: 269px;
+    bottom: 200px;
+    box-shadow: 17px 11px 25px;
+    border-radius: 18px;
+
+}
+
+.bottom02 {
+    color: white;
+    background-color: rgb(5, 169, 57);
+    border: 1px solid none;
+    height: 45px;
+    width: 269px;
+    display: grid;
+    grid-template-columns: 89px 89px 89px;
+    grid-auto-rows: auto;
+    padding-top: 10px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+}
+
+.mypara2 {
+    color: black;
+    text-align: center;
+    padding: 4px;
+
+}
