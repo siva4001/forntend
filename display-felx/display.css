@@ -1,0 +1,159 @@
+.my-condent {
+    /* height: 800px; */
+    /* width: 400px; */
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+
+}
+
+.div {
+    height: 150px;
+    width: 150px;
+    border: 1px solid red;
+}
+
+.my-condent01 {
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.my-condent02 {
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+
+.my-condent03 {
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+.my-condent04 {
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+
+.my-condent05 {
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    gap: 25px;
+}
+
+.my-condent06 {
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 25px;
+}
+
+.my-condent07 {
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    column-gap: 25px;
+}
+
+.my-condent08 {
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.my-condent09 {
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.my-condent10 {
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+
+.my-condent11 {
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}
+
+.my-condent12 {
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    justify-content: start;
+}
+
+.my-condent13 {
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    justify-content: end;
+}
+
+.my-condent14 {
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.my-condent15 {
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.my-condent16 {
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.my-condent17 {
+    height: 300px;
+    width: 300px;
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    align-items: baseline;
+}
+
+.my-condent18 {
+    height: 300px;
+    width: 300px;
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    align-items: center;
+}
+
+.my-condent19 {
+    height: 300px;
+    width: 300px;
+    border: 1px solid red;
+    padding: 2px;
+    display: flex;
+    align-items: end;
+}
