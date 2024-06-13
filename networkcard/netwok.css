@@ -1,0 +1,27 @@
+.net {
+    background-color: rgb(102, 102, 154);
+    border: 1px solid rebeccapurple;
+    height: 50px;
+    weight: 100%;
+    display: flex;
+    padding: 40px;
+    gap: 227px;
+    align-items: center;
+}
+
+.img {
+    height: 75px;
+    width: 75px;
+    border-radius: 52px;
+}
+
+.line {
+    list-style-type: none;
+    display: flex;
+    gap: 34px;
+}
+
+.but {
+    height: 30px;
+    width: 98px;
+}
