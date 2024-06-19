@@ -1,0 +1,31 @@
+.para {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.para1 {
+    display: grid;
+    grid-template-columns: 200px 600px 900px;
+    gap: 20px;
+}
+
+.para2 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px;
+}
+
+.para3 {
+    display: grid;
+    grid-template-rows: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.para4 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: space-between;
+    gap: 20px;
+}
+

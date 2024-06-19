@@ -1,0 +1,12 @@
+.head {
+    width: 1010px;
+    border: 1px solid;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.box {
+    width: 250px;
+    border: 1px solid red;
+    padding-top: 200px;
+}
