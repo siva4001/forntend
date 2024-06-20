@@ -1,0 +1,59 @@
+.main {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.box {
+    padding: 199px;
+}
+
+.box1 {
+    grid-row: span 2;
+    background-image: url(../gridspan/images/1.webp);
+    background-size: 100%;
+
+}
+
+.box2 {
+    grid-column-start: 2;
+    grid-column-end: 4;
+    background-image: url(../gridspan/images/2.webp);
+    background-size: 100%;
+}
+
+.box3 {
+    background-image: url(../gridspan/images/3.webp);
+    background-size: 100%;
+}
+
+.box4 {
+    background-image: url(../gridspan/images/4.webp);
+    background-size: 100%;
+}
+
+.box5 {
+    background-image: url(../gridspan/images/5.webp);
+    background-size: 100%;
+    background-position: center;
+}
+
+.box6 {
+    background-image: url(../gridspan/images/6.webp);
+    background-size: 100%;
+}
+
+.box7 {
+    background-image: url(../gridspan/images/7.webp);
+    background-size: 100%;
+}
+
+.box8 {
+    background-image: url(../gridspan/images/8.webp);
+    background-size: 100%;
+}
+
+.box9 {
+    grid-column: span 2;
+    background-image: url(../gridspan/images/9.webp);
+    background-size: 100%;
+}
