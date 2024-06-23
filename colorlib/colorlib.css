@@ -10,16 +10,19 @@
     display: flex;
     justify-content: space-around;
     background-color: #052f48;
+    padding-top: 10px;
+
 }
 
 .first {
-    height: 50px;
+    height: 60px;
     width: 100%;
     justify-content: space-around;
     display: flex;
     gap: 150px;
-    padding-top: 20px;
+    padding-top: 15px;
     padding-bottom: 20px;
+
 }
 
 .unorder {
@@ -47,7 +50,7 @@
     width: 510px;
     text-align: center;
     line-height: 190%;
-    padding-left: 40%;
+    padding-left: 30%;
     padding-top: 270px;
 }
 
@@ -58,7 +61,7 @@
 .flex {
     display: flex;
     gap: 30px;
-    padding: 200px;
+    padding: 100px;
 }
 
 .flex01 {
@@ -80,16 +83,22 @@
 }
 
 .box {
-    height: 330px;
+    height: 300px;
     width: 180px;
     text-align: center;
-    padding: 75px;
+    padding: 20px;
     text-align: left;
+    line-height: 27px;
 }
 
-.watch00 {
-    display: flex;
-    gap: 15px;
+.box0 {
+    height: 300px;
+    width: 180px;
+    background-color: #4f86f9;
+    text-align: left;
+    padding: 20px;
+    line-height: 27px;
+    border-radius: 10px;
 }
 
 .box01 {
@@ -99,17 +108,18 @@
     padding: 50px;
 }
 
+.watch00 {
+    display: flex;
+    gap: 15px;
+}
+
+
+
 .bol01 {
     font-size: xx-large;
 }
 
-.box0 {
-    height: 330px;
-    width: 180px;
-    background-color: #4f86f9;
-    text-align: lefts;
-    padding: 33px;
-}
+
 
 .bol {
     font-size: x-large;
@@ -135,6 +145,7 @@
     background-size: 100%;
     text-align: justify;
     padding-left: 20px;
+    background-repeat: no-repeat;
 }
 
 .para {
@@ -142,8 +153,9 @@
     line-height: 32px;
     height: 400px;
     width: 478px;
-    padding-left: 940px;
+    padding-left: 650px;
     padding-top: 150px;
+    color: rgba(0, 0, 0, 0.3);
 }
 
 .round {
@@ -153,7 +165,7 @@
 .box002 {
     height: 782px;
     width: 100%;
-    padding-left: 280px;
+    padding-left: 10px;
 }
 
 .box0201 {
@@ -188,27 +200,26 @@
 .section03 {
     height: 390px;
     width: 100%;
-    border: 1px solid red;
+
 }
 
 .sec01 {
     height: 330px;
     width: 25%;
-    border: 1px solid red;
+
     display: flex;
 }
 
 .imgsec1 {
     height: 330px;
     width: 25%;
-    border: 1px solid red;
+
     background-image: url(../coloulib/image/gallery-1.jpg);
 }
 
 .sec02 {
     height: 550px;
     width: 100%;
-    border: 1px solid red;
     background-size: 100%;
     background-image: url(../coloulib/image/bg_3.jpg);
 }
@@ -276,25 +287,209 @@
     background-size: cover;
 }
 
-.Smith {
+.ned {
+    text-align: center;
+    margin-left: 25px;
+    padding: 100px;
+}
+
+.a {
+    padding: 20px;
+
+}
+
+.subhead {
     display: flex;
-    gap: 30px;
+    gap: 50px;
     margin-left: 100px;
 }
 
 .Jason {
     background: #fff;
     position: relative;
-    height: 360px;
-    width: 20%;
-    line-height: 30px;
+    height: 525px;
+    width: 16%;
+    line-height: 25px;
     text-align: center;
     padding: 20px;
-    word-spacing: 5px;
+    word-spacing: 12px;
 
 }
 
 .icons {
     display: flex;
     list-style: none;
+    color: #4f86f9;
+}
+
+.rad {
+    font-size: large;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.rap {
+    font-size: small;
+    color: #4f86f9;
+}
+
+.cwc {
+    display: flex;
+    gap: 80px;
+    padding: 90px;
+}
+
+.tion {
+    height: 325px;
+    width: 350px;
+    line-height: 30px;
+    word-spacing: 3px;
+    padding: 40px;
+    padding-bottom: 5px;
+}
+
+.ion01 {
+    padding-top: 55px;
+    display: flex;
+}
+
+.ion02 {
+    padding-top: 55px;
+    background-color: #4f86f9;
+    display: flex;
+    margin-top: -45px;
+}
+
+.ion03 {
+    padding-top: 55px;
+    display: flex;
+
+}
+
+.caption {
+    height: 475px;
+    width: 100%;
+    display: flex;
+    gap: 50px;
+    padding: 50px;
+}
+
+.src {
+    height: 450px;
+    width: 20%;
+    position: relative;
+}
+
+.fodder01 {
+    width: 100%;
+    display: flex;
+    background-image: url(../colorlib/image/07.jpeg);
+    background-size: 100%;
+    background-position: left;
+}
+
+.button {
+    height: 65px;
+    width: 170px;
+    background-color: #fff;
+    color: #4f86f9;
+    border: none;
+    border-radius: 5px;
+}
+
+.fodder02 {
+    height: 400px;
+    width: 100%;
+    background-image: url(../colorlib/image/24.jpeg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.fodd05 {
+    padding: 85px;
+    text-align: center;
+    padding-left: 350px;
+    text-align: center;
+
+}
+
+.fodd {
+    margin-left: 20px;
+    display: flex;
+    gap: 20px;
+    padding: 90px;
+
+}
+
+.folder01 {
+    height: 300px;
+    width: 200px;
+    margin-top: -15px;
+}
+
+.folder02 {
+    height: 300px;
+    width: 200px;
+    list-style: none;
+    word-spacing: 5px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.fafa {
+    list-style: none;
+}
+
+.folder03 {
+    height: 300px;
+    width: 200px;
+    list-style: none;
+    margin-top: 50px;
+    margin-left: -60px;
+    word-spacing: 5px;
+    line-height: 35px;
+    text-align: justify;
+}
+
+.folder04 {
+    height: 300px;
+    width: 250px;
+}
+
+.our {
+    display: flex;
+    gap: 10px;
+    line-height: 20px;
+    word-spacing: 5px;
+}
+
+.lib01 {
+    height: 60px;
+    width: 60px;
+    background-size: 100%;
+    background-position: 100%;
+    border-radius: 5px;
+}
+
+.folder05 {
+    height: 300px;
+    width: 200px;
+
+}
+
+.our1 {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    font-size: 18px;
+}
+
+
+.fodder03 {
+    width: 100%;
+    background-color: #052f48;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
 }

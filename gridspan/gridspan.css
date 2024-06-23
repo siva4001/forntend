@@ -4,7 +4,9 @@
 }
 
 .box {
-    padding: 199px;
+    padding: 100px;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .box1 {
@@ -34,7 +36,7 @@
 .box5 {
     background-image: url(../gridspan/images/5.webp);
     background-size: 100%;
-    background-position: center;
+    background-position: bottom;
 }
 
 .box6 {
@@ -45,15 +47,18 @@
 .box7 {
     background-image: url(../gridspan/images/7.webp);
     background-size: 100%;
+    background-position: top;
 }
 
 .box8 {
     background-image: url(../gridspan/images/8.webp);
     background-size: 100%;
+    background-position: center;
 }
 
 .box9 {
     grid-column: span 2;
     background-image: url(../gridspan/images/9.webp);
     background-size: 100%;
+    background-position: center;
 }
