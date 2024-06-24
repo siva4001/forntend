@@ -1,6 +1,6 @@
 .section {
     height: 100%;
-    width: 100%;
+    width: 105%;
 }
 
 .section01 {
@@ -28,7 +28,7 @@
 .unorder {
     list-style-type: none;
     display: flex;
-    gap: 55px;
+    gap: 25px;
     justify-content: center;
 }
 
@@ -170,14 +170,14 @@
 
 .box0201 {
     height: 390px;
-    width: 1300px;
+    width: 100%;
     display: flex;
     flex-direction: row;
 }
 
 .box0202 {
     height: 390px;
-    width: 1300px;
+    width: 100%;
     display: flex;
     flex-direction: row;
 }
@@ -369,14 +369,22 @@
     height: 475px;
     width: 100%;
     display: flex;
-    gap: 50px;
-    padding: 50px;
+    gap: 30px;
+    padding: 80px;
 }
 
 .src {
     height: 450px;
     width: 20%;
     position: relative;
+    line-height: 20px;
+}
+
+.link {
+    font-weight: 200;
+    font-size: 10px;
+    display: flex;
+    gap: 12px;
 }
 
 .fodder01 {
@@ -399,7 +407,7 @@
 .fodder02 {
     height: 400px;
     width: 100%;
-    background-image: url(../colorlib/image/24.jpeg);
+    background-image: url(../colorlib/image/24.jpg);
     background-size: cover;
     background-position: center;
 

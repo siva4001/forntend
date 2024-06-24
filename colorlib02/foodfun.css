@@ -45,18 +45,85 @@
 .maincontend2 {
     height: 620px;
     width: 100%;
-    border: 1px solid rebeccapurple;
     display: flex;
+    justify-content: center;
+    margin-top: 80px;
 }
 
 .section2 {
     width: 45%;
-    border: 1px solid rebeccapurple;
-
 }
+
+
 
 .section201 {
     height: 500px;
-    width: 45%;
+    width: 35%;
+    text-align: justify;
+    line-height: 20px;
+    font-size: 14px;
+    word-spacing: 5px;
+    margin-top: 110px;
+}
+
+.button01 {
+    height: 35px;
+    width: 130px;
+    border: none;
+    color: #131230;
+    background-color: #ffb606;
+    font-weight: 700;
+}
+
+.contend02 {
+    height: 1310px;
+    width: 100%;
     border: 1px solid rebeccapurple;
+    background-image: url(../colorlib02/images/food-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    display: grid;
+    justify-content: space-around;
+
+
+}
+
+.box01 {
+    height: 250px;
+    width: 320px;
+}
+
+.para {
+    color: #777;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.mainbox {
+    height: 992px;
+    width: 1100px;
+    border: 1px solid red;
+}
+
+.mainbox01 {
+    display: flex;
+    gap: 35px;
+    margin-top: 35px;
+}
+
+.mainbox02 {
+    display: flex;
+    gap: 35px;
+    margin-top: 35px;
+
+}
+
+.box {
+    height: 450px;
+    width: 350px;
+    border: 1px solid pink;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
