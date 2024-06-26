@@ -150,18 +150,27 @@
 }
 
 .contend03 {
-    height: 450px;
+    height: 400px;
     width: 100%;
-    border: 1px solid red;
     background-image: url(../colorlib02/images/reservation-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
     text-align: center;
+    padding-top: 1px;
 }
 
 .con01 {
     margin-top: 140px;
+    position: relative;
+    width: 100%;
+    line-height: 50px;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+
 }
+
 
 .head02 {
     color: #fff;
@@ -177,4 +186,73 @@
     font-weight: 400;
     font-style: italic;
     text-transform: capitalize;
+}
+
+.contend04 {
+    height: 1000px;
+    width: 100%;
+    border: 1px solid red;
+}
+
+.cont04 {
+    color: #777;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.cont41 {
+    text-align: center;
+    margin: auto;
+}
+
+.contend05 {
+    height: 450px;
+    width: 100%;
+    background-image: url(../colorlib02/images/testimonial-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    margin: auto;
+    padding-top: 60px;
+}
+
+.black {
+    font-weight: 700;
+    color: #131230;
+    font-style: italic;
+    font-size: 34px;
+    line-height: 37px;
+}
+
+.yello {
+    color: #ffb606;
+    font-style: italic;
+    font-size: 34px;
+    line-height: 37px;
+}
+
+.wieght {
+    color: #fff;
+    font-style: italic;
+    font-size: 34px;
+    line-height: 37px;
+    margin: 95px;
+}
+
+.book {
+    color: #131230;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.cont42 {
+    display: flex;
+}
+
+.cont43 {
+    display: flex;
 }
