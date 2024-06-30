@@ -83,6 +83,7 @@
     background-position: top right;
     display: grid;
     justify-content: space-around;
+    margin-top: 100px;
 
 }
 
@@ -188,23 +189,6 @@
     text-transform: capitalize;
 }
 
-.contend04 {
-    height: 1000px;
-    width: 100%;
-    border: 1px solid red;
-}
-
-.cont04 {
-    color: #777;
-    font-family: "Roboto", sans-serif;
-    font-size: 14px;
-    font-weight: 400;
-}
-
-.cont41 {
-    text-align: center;
-    margin: auto;
-}
 
 .contend05 {
     height: 450px;
@@ -217,6 +201,7 @@
     font-family: "Roboto", sans-serif;
     margin: auto;
     padding-top: 60px;
+    margin-top: 150px;
 }
 
 .black {
@@ -249,13 +234,6 @@
     font-weight: 500;
 }
 
-.cont42 {
-    display: flex;
-}
-
-.cont43 {
-    display: flex;
-}
 
 .footer01 {
     height: 500px;
@@ -354,4 +332,109 @@
     padding-top: 8px;
     display: flex;
     gap: 20px;
+}
+
+.food001 {
+    width: 380px;
+    text-align: center;
+}
+
+.food {
+    width: 100%;
+    padding: 130px 0px;
+    padding-right: 0px;
+    padding-left: 80px;
+    display: flex;
+    gap: 40px;
+}
+
+.contend04 {
+    width: 100%;
+}
+
+.cont04 {
+    color: #777;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.cont41 {
+    text-align: center;
+    margin: auto;
+}
+
+
+.cont42 {
+    width: 90%;
+    display: flex;
+    padding: 60px 0px 40px 100px;
+    margin-right: 200px;
+}
+
+.cont004 {
+    width: 450px;
+    gap: 40px;
+    color: #777;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.conthead {
+    color: #131230;
+    font-family: "Playfair Display", serif;
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: -15px;
+}
+
+.contbody {
+    width: 370px;
+    line-height: 19px;
+    word-spacing: 2px;
+    margin-left: 75px;
+}
+
+.book01 {
+    color: #131230;
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.cont43 {
+    width: 90%;
+    display: flex;
+    padding: 60px 0px 40px 100px;
+    margin-right: 200px;
+}
+
+.foodh {
+    color: #131230;
+    font-family: "Playfair Display", serif;
+    text-transform: capitalize;
+    font-size: 20px !important;
+    font-weight: 700;
+}
+
+.foodpara {
+    color: #777;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.more {
+    color: #131230;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 550;
+}
+
+.alli {
+    text-align: justify;
+    width: 235px;
+    padding: 30px;
 }

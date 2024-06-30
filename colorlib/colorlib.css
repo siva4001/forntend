@@ -1,6 +1,6 @@
 .section {
     height: 100%;
-    width: 105%;
+    width: 100%;
 }
 
 .section01 {
@@ -144,7 +144,6 @@
     background-image: url(../colorlib/image/02.jpeg);
     background-size: 100%;
     text-align: justify;
-    padding-left: 20px;
     background-repeat: no-repeat;
 }
 
@@ -366,11 +365,11 @@
 }
 
 .caption {
-    height: 475px;
     width: 100%;
     display: flex;
-    gap: 30px;
-    padding: 80px;
+    margin: auto;
+    gap: 40px;
+    padding-left: 30px;
 }
 
 .src {

@@ -1,0 +1,70 @@
+.manicondent {
+    height: 484px;
+    width: 400px;
+    border: 1px solid rebeccapurple;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    border: 1px solid red;
+}
+
+.box01 {
+    background-color: blueviolet;
+    top: 20px;
+    position: absolute;
+}
+
+.box02 {
+    background-color: aqua;
+    right: 200px;
+    position: absolute;
+}
+
+.box03 {
+    background-color: bisque;
+    bottom: 50px;
+    position: absolute;
+}
+
+.manicondent02 {
+    height: 400px;
+    width: 400px;
+    border: 1px solid rgb(37, 24, 183);
+    position: relative;
+
+}
+
+.box001 {
+    background-color: blueviolet;
+    top: 20px;
+    position: absolute;
+}
+
+.box002 {
+    background-color: aqua;
+    position: absolute;
+    right: 20px;
+}
+
+.box003 {
+    background-color: bisque;
+    bottom: 0px;
+    position: absolute;
+}
+
+nav {
+
+    background-color: antiquewhite;
+    position: sticky;
+    top: 0;
+}
+
+ul {
+    list-style: none;
+    column-gap: 40px;
+    font-size: 22px;
+    font-weight: 700;
+    display: flex;
+}
