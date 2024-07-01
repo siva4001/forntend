@@ -147,15 +147,18 @@
     background-repeat: no-repeat;
 }
 
+
 .para {
     word-spacing: 4px;
     line-height: 32px;
     height: 400px;
     width: 478px;
-    padding-left: 650px;
     padding-top: 150px;
     color: rgba(0, 0, 0, 0.3);
+    position: relative;
+    left: 650px;
 }
+
 
 .round {
     border-bottom-style: calc();

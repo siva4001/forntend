@@ -51,7 +51,8 @@
 }
 
 .section2 {
-    width: 45%;
+    background-size: 100%;
+    background-position: center;
 }
 
 
@@ -167,9 +168,6 @@
     width: 100%;
     line-height: 50px;
     min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
-
 }
 
 
@@ -224,7 +222,6 @@
     font-style: italic;
     font-size: 34px;
     line-height: 37px;
-    margin: 95px;
 }
 
 .book {
@@ -241,10 +238,8 @@
     background-image: url(../colorlib02/images/table-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
     text-align: center;
     font-family: "Roboto", sans-serif;
-    margin: auto;
     color: #fff;
 }
 
@@ -255,7 +250,7 @@
 }
 
 .grit {
-    justify-content: space-around;
+    justify-content: space-evenly;
     display: flex;
 }
 
@@ -270,6 +265,7 @@
     font-weight: 400;
     display: flex;
     justify-content: center;
+    border: none;
 
 }
 
@@ -300,6 +296,7 @@
     color: #ffb606;
     font-size: 20px;
     font-family: "Playfair Display", serif;
+
 }
 
 
@@ -334,18 +331,11 @@
     gap: 20px;
 }
 
-.food001 {
-    width: 380px;
-    text-align: center;
-}
-
 .food {
-    width: 100%;
-    padding: 130px 0px;
-    padding-right: 0px;
-    padding-left: 80px;
     display: flex;
-    gap: 40px;
+    gap: 20px;
+    margin-top: 50px;
+    margin-left: 90px;
 }
 
 .contend04 {
@@ -433,8 +423,22 @@
     font-weight: 550;
 }
 
-.alli {
-    text-align: justify;
-    width: 235px;
-    padding: 30px;
+.alli {}
+
+.one {
+    display: flex;
+    gap: 20px;
+    line-height: 25px;
+}
+
+.tow {
+    display: flex;
+    gap: 20px;
+    line-height: 25px;
+}
+
+.three {
+    display: flex;
+    gap: 20px;
+    line-height: 25px;
 }
