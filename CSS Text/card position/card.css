@@ -1,0 +1,76 @@
+.maincontent {
+    height: 600px;
+    width: 600px;
+    position: relative;
+    padding: 10px;
+}
+
+.card01 {
+    height: 25px;
+    width: 134px;
+    position: absolute;
+    left: 20px;
+}
+
+.card02 {
+    height: 25px;
+    width: 170px;
+    font-size: 12px;
+    position: absolute;
+    right: 10px;
+}
+
+.main02 {
+    height: 550px;
+    width: 575px;
+    position: relative;
+    top: 50px;
+
+}
+
+.card03 {
+    position: absolute;
+    top: 45px;
+    left: 230px;
+    width: 79px;
+    padding: 6px;
+    border-radius: 19px;
+}
+
+.card04 {
+    position: absolute;
+    top: 65px;
+    left: 98px;
+    font-size: xx-large;
+    font-weight: 800;
+    text-align: center;
+}
+
+.card05 {
+    height: 300px;
+    width: 405px;
+    position: absolute;
+    top: 225px;
+    left: 60px;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.card06 {
+    height: 300px;
+    width: 405px;
+    position: absolute;
+    top: 347px;
+    left: 60px;
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.but {
+    height: 40px;
+    width: 115px;
+    position: absolute;
+    top: 450px;
+    left: 210px;
+    border: none;
+}
