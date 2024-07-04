@@ -1,0 +1,58 @@
+.mainsection {
+    height: 820px;
+    width: 600px;
+    position: relative;
+    left: 200px;
+}
+
+.card {
+    height: 358px;
+}
+
+.card01 {
+    height: 30px;
+    width: 259px;
+    letter-spacing: 5px;
+    font-size: 13px;
+    font-weight: 800;
+    position: relative;
+    left: 198px;
+    top: 15px;
+}
+
+.card04 {
+    margin-top: 50px;
+    gap: 15px;
+}
+
+.but {
+    height: 38px;
+    width: 164px;
+    position: absolute;
+    bottom: 20px;
+    left: 215px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(239, 141, 43);
+    color: white;
+}
+
+.card02 {
+    height: 390px;
+    width: 550px;
+    position: absolute;
+    left: 24px;
+    top: 360px;
+}
+
+
+.card03 {
+    height: 34px;
+    position: absolute;
+    left: 240px;
+    bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(239, 141, 43);
+    color: white;
+}
