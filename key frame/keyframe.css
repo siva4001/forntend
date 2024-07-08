@@ -1,0 +1,25 @@
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    animation: mymove 5s ease-in-out infinite alternate;
+    position: relative;
+}
+
+@keyframes mymove {
+    0% {
+        border-radius: 20%;
+        left: 0;
+        background-color: red;
+    }
+
+    25% {
+        border-radius: 50%;
+        left: 200px;
+        background-color: blueviolet;
+    }
+
+    100% {
+        background-color: black;
+    }
+}

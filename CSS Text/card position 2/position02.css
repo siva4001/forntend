@@ -1,12 +1,12 @@
 .mainsection {
-    height: 820px;
+    height: 930px;
     width: 600px;
     position: relative;
     left: 200px;
 }
 
 .card {
-    height: 358px;
+    height: 425px;
 }
 
 .card01 {
@@ -16,7 +16,7 @@
     font-size: 13px;
     font-weight: 800;
     position: relative;
-    left: 198px;
+    left: 190px;
     top: 15px;
 }
 
@@ -42,7 +42,7 @@
     width: 550px;
     position: absolute;
     left: 24px;
-    top: 360px;
+    top: 465px;
 }
 
 
@@ -55,4 +55,9 @@
     border-radius: 5px;
     background-color: rgb(239, 141, 43);
     color: white;
+}
+
+.img {
+    display: flex;
+    gap: 20px;
 }
