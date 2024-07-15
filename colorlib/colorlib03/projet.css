@@ -18,13 +18,38 @@
     list-style-type: none;
     font-size: 14px;
     color: #ffffff;
+    gap: 20px;
+}
+
+.list {
+    font-size: 14px;
+    color: #ffffff;
     margin-right: 5px;
 }
 
 .icons {
     font-size: 14px;
     color: #ffffff;
-    margin-right: 5px;
     position: relative;
     top: 14px;
+    display: flex;
+    gap: 15px;
+}
+
+.header {
+    width: 100%;
+    background: #0d0d0d;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.header01 {
+    height: 50px;
+    width: 100%;
+    background: #9e0303;
+    color: #ffffff;
+    font-size: 15px;
+}
+.header01 {
+
 }
