@@ -215,8 +215,7 @@
 .imgsec1 {
     height: 330px;
     width: 25%;
-
-    background-image: url(../coloulib/image/gallery-1.jpg);
+    background-image: url();
 }
 
 .sec02 {
@@ -368,11 +367,10 @@
 }
 
 .caption {
-    width: 100%;
     display: flex;
     margin: auto;
     gap: 40px;
-    padding-left: 30px;
+    padding-left: 60px;
 }
 
 .src {
@@ -409,7 +407,7 @@
 .fodder02 {
     height: 400px;
     width: 100%;
-    background-image: url(../colorlib/image/24.jpg);
+    background-image: url(../colorlib/image/24.jpeg);
     background-size: cover;
     background-position: center;
 
