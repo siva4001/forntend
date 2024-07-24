@@ -2,8 +2,6 @@
     height: 1065px;
     width: 100%;
     position: relative;
-    background-color: #333;
-
 }
 
 .table {
@@ -19,7 +17,7 @@
     position: relative;
 }
 
-.after03 {
+.after05 {
     padding-top: 7px;
     height: 15px;
     width: 5px;
@@ -30,7 +28,7 @@
     transform: skewX(-15deg);
 }
 
-.main03 {
+.main05 {
     display: flex;
     text-align: center;
     color: #ffffff;
@@ -55,7 +53,7 @@
     font-size: 15px;
 }
 
-.fafa02 {
+.fafa03 {
     color: #212529;
     position: absolute;
     right: -559px;
@@ -185,7 +183,7 @@
 
 }
 
-.icons {
+.icons01 {
     display: flex;
     border: 1px solid #222222;
     font-size: 14px;
@@ -222,7 +220,7 @@
     border: 1px solid red;
 }
 
-.sec {
+.sec1 {
     display: grid;
     gap: 40px;
     position: relative;
@@ -230,12 +228,12 @@
 
 }
 
-.sec01 {
+.sec001 {
     display: flex;
     gap: 20px;
 }
 
-.sub {
+.sub01 {
     font-style: italic;
     display: flex;
     margin-top: 0px;
@@ -246,7 +244,7 @@
     line-height: 20px;
 }
 
-.si {
+.si01 {
     font-size: 12px;
     color: #666666;
     font-style: italic;
