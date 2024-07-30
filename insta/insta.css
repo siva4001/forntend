@@ -1,18 +1,31 @@
-.header {
-    height: 70px;
-    width: 505px;
-    border: 1px solid;
-    display: flex;
+.mainpage {
+    height: 550px;
+    width: 360px;
+    border: 1px solid palevioletred;
 }
 
+.header {
+    height: 50px;
+    width: 357px;
+    /* border: 1px solid red; */
+    display: flex;
+    gap: 165px;
+    margin-bottom: 10px;
+}
+
+
 .name {
+    height: 26px;
     font-size: 20px;
     font-weight: 600;
     position: relative;
-    top: 16px;
-    left: 26px;
+    top: 10px;
+    left: 15px;
     display: flex;
     gap: 5px;
+    padding-bottom: 0px;
+    /* border: 1px solid; */
+    width: 124px;
 }
 
 .name01 {
@@ -21,99 +34,126 @@
 }
 
 .edit-icon {
-    height: 30px;
-    width: 56px;
-    text-align: center;
-    position: relative;
-    right: -327px;
-    top: 16px;
+    height: 26px;
+    width: 35px;
+    /* border: 1px solid; */
+    margin: top;
+    margin-top: 10px;
 }
 
 .header02 {
-    height: 135px;
-    width: 500px;
-    border: 1px solid red;
+    height: 120px;
+    width: 357px;
+    /* border: 1px solid red; */
+    display: flex;
 
+}
+
+.message {
+    height: 95px;
+    width: 77px;
+    /* border: 1px solid brown; */
+    margin: 6px;
+    padding-top: 7px;
+    padding-bottom: 2px;
 }
 
 .note {
-    height: 120px;
-    width: 120px;
-    border: 1px solid rebeccapurple;
-    position: relative;
-    top: 5px;
-    left: 25px;
+    height: 65px;
+    width: 65px;
+    /* border: 1px solid rebeccapurple; */
+    border-radius: 69px;
+    margin-left: 5px;
 }
 
 .note01 {
-    height: 30px;
-    width: 75px;
-    border: 1px solid rebeccapurple;
+    height: 20px;
+    width: 57px;
+    /* border: 1px solid rebeccapurple; */
     position: relative;
-    top: 10px;
-    left: 18px;
+    top: -88px;
+    left: 15px;
+    border-radius: 28px;
+    background-color: #fff;
 }
 
-.note02 {}
+.note02 {
+    height: 15px;
+    width: 86px;
+    /* border: 1px solid red; */
+    margin-top: -19px;
+    margin-left: 5px;
+}
 
 .header03 {
-    height: 40px;
-    width: 500px;
-    border: 1px solid red;
+    height: 35px;
+    width: 357px;
+    /* border: 1px solid red; */
     display: flex;
+    gap: 140px;
 }
 
 .message00 {
     height: 20px;
     width: 100px;
-    border: 1px solid red;
-    position: relative;
-    top: 8px;
-    left: 10px;
+    /* border: 1px solid red; */
     font-weight: 700;
     font-size: 16px;
+    margin-top: 8px;
+    margin-left: 5px;
 }
 
 .message01 {
     height: 20px;
     width: 100px;
-    border: 1px solid red;
-    position: relative;
-    top: 8px;
-    right: -280px;
+    /* border: 1px solid red; */
+    margin-top: 8px;
     font-weight: 700;
     font-size: 16px;
 }
 
-.body {
-    width: 500px;
-    border: 1px solid red;
-
+.massagecon {
+    height: 343px;
+    width: 356px;
+    /* border: 1px solid red; */
+    display: grid;
 }
 
+.body {
+    height: 85px;
+    width: 335px;
+    /* border: 1px solid red; */
+    margin-left: 15px;
+}
+
+
 .body01 {
-    height: 120px;
-    width: 350px;
-    position: relative;
-    border: 1px solid red;
-    left: 20px;
+    height: 84px;
+    width: 330px;
+    /* border: 1px solid red; */
     display: flex;
+    gap: 5px;
+}
+
+.box {
+    padding: 5px;
+    display: grid;
 }
 
 .box01 {
-    height: 100px;
-    width: 100px;
-    border: 1px solid red;
+    height: 80px;
+    width: 80px;
+    /* border: 1px solid red; */
 }
 
 .box02 {
     height: 25px;
     width: 200px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .box03 {
     height: 25px;
     width: 250px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
