@@ -7,7 +7,7 @@
 .header {
     height: 50px;
     width: 357px;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     display: flex;
     gap: 165px;
     margin-bottom: 10px;
@@ -24,7 +24,7 @@
     display: flex;
     gap: 5px;
     padding-bottom: 0px;
-    /* border: 1px solid; */
+    border: 1px solid;
     width: 124px;
 }
 
@@ -36,7 +36,7 @@
 .edit-icon {
     height: 26px;
     width: 35px;
-    /* border: 1px solid; */
+    border: 1px solid;
     margin: top;
     margin-top: 10px;
 }
@@ -44,7 +44,7 @@
 .header02 {
     height: 120px;
     width: 357px;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     display: flex;
 
 }
@@ -52,7 +52,7 @@
 .message {
     height: 95px;
     width: 77px;
-    /* border: 1px solid brown; */
+    border: 1px solid brown;
     margin: 6px;
     padding-top: 7px;
     padding-bottom: 2px;
@@ -61,7 +61,7 @@
 .note {
     height: 65px;
     width: 65px;
-    /* border: 1px solid rebeccapurple; */
+    border: 1px solid rebeccapurple;
     border-radius: 69px;
     margin-left: 5px;
 }
@@ -69,7 +69,7 @@
 .note01 {
     height: 20px;
     width: 57px;
-    /* border: 1px solid rebeccapurple; */
+    border: 1px solid rebeccapurple;
     position: relative;
     top: -88px;
     left: 15px;
@@ -80,7 +80,7 @@
 .note02 {
     height: 15px;
     width: 86px;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     margin-top: -19px;
     margin-left: 5px;
 }
@@ -88,7 +88,7 @@
 .header03 {
     height: 35px;
     width: 357px;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     display: flex;
     gap: 140px;
 }
@@ -96,7 +96,7 @@
 .message00 {
     height: 20px;
     width: 100px;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     font-weight: 700;
     font-size: 16px;
     margin-top: 8px;
@@ -106,7 +106,7 @@
 .message01 {
     height: 20px;
     width: 100px;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     margin-top: 8px;
     font-weight: 700;
     font-size: 16px;
@@ -115,14 +115,14 @@
 .massagecon {
     height: 343px;
     width: 356px;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     display: grid;
 }
 
 .body {
     height: 85px;
     width: 335px;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     margin-left: 15px;
 }
 
@@ -130,7 +130,7 @@
 .body01 {
     height: 84px;
     width: 330px;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     display: flex;
     gap: 5px;
 }
@@ -143,17 +143,17 @@
 .box01 {
     height: 80px;
     width: 80px;
-    /* border: 1px solid red; */
+    border: 1px solid red;
 }
 
 .box02 {
     height: 25px;
     width: 200px;
-    /* border: 1px solid red; */
+    border: 1px solid red;
 }
 
 .box03 {
     height: 25px;
     width: 250px;
-    /* border: 1px solid red; */
+    border: 1px solid red;
 }
