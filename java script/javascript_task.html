@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+//         task 1 using if - else 
+// 1) check if the number is odd or even.
+      let a = 2
+      if(a/2){
+        console.log("a  is a even number");
+    }
+    else{
+        console.log('a is a add number');
+     }
+// 2) compare 2 numbers and display the largest number.
+    let n1 = 100
+    let n2 = 200
+    if (n1>n2){
+        console.log('n1 is largest no');
+    }else{
+        console.log('n2 is largest no');
+    }
+
+// 3) write a program that calculate the grade with use of given percentage.
+ var x = 60
+ if (x >=80/100){
+    console.log( "a is more then 80%");
+    }
+else{console.log("a is less then 80%");
+}
+
+// 4) determines the type of triangle based on the side length.
+// 5) determines the season, based on a given month
+    let month = 5
+     if (month >= 6 && month <= 8) {
+        console.log('it is a summer');
+        }
+        else if (month >= 3 && month <= 5){
+        console.log('it is a spring');
+        }
+        else if(month >= 9 && month <= 2){
+        console.log('it is a winter');
+        }
+
+// 6) check if the number is positive or negative using prompt().
+ var number = prompt ('enter a number')
+ if (number >= 0){
+    console.log('given no is +ve');
+ }else{console.log('given no is -ve');
+ }
+
+// 7) check three persons salary and display the minimum salary .
+  var p1 = 3000
+  var p2 = 2000
+  var p3 = 1000
+    
+    if (p1<p2) {console.log("p1 is minimum salary");
+        } 
+        else if (p2<p3){console.log("p2 is minium salary");
+        
+
+        } else {console.log("p3 is minium salary");
+        }
+
+
+        //         task 2 using if - else if - else
+        // 1) check three persons salary and display the minimum salary . 
+  var p1 = 200
+  var p2 = 2000
+  var p3 = 1000
+  
+        if(p1>p2){
+            if(p2>p3 ){
+                console.log("p3 the minimum salary");
+                
+            }else {console.log('p2 the minimum salary');
+            
+            }
+        }
+        else{console.log("p1 the minimum salary");
+        }
+
+// 2. given  number is +ve are -ve
+       
+        var num = 0
+        if (num >0){
+            console.log('number is +ve');
+            
+        }
+        else if (num<0) {
+            console.log('nuber is -ve');
+            
+        }
+        else {
+            console.log("number is 0");
+            
+        }
+
+            //    task 3 using switch...case Statement
+
+    //    determines the season, based on a given month
+
+       var Month = 8
+    switch (Month){
+        case  6:case  7:case  8: console.log( 'it is a summer');
+        break;
+        case 9:case  10:case  11:  console.log( 'it is a fall');
+        break;
+        case  3: case  4: case  5: console.log( 'it is a spring');
+        break;
+        case  12:case  1:case  2: console.log( 'it is a winter');
+        break;
+        default:
+            console.log('no match');
+    }
+
+        // mark with a grade
+     let mark = 80
+    switch (true) {
+        case (mark >= 90 && mark <= 100): console.log( 'grade is a');    
+        break;
+        case (mark >= 80 && mark <= 90): console.log( 'grade is b');
+        break;
+        case (mark >= 70 && mark <= 80): console.log( 'grade is c');
+        break;
+        case (mark >= 60 && mark <= 70): console.log( 'grade is d');
+        break;
+        case (mark >= 0 && mark <= 60): console.log( 'grade is f');
+        break;
+        default: 
+        console.log( 'Invalid mark');
+}
+
+
+    
+
+
+
+
+
+
+
+        
+
+
+    </script>
+    
+</body>
+</html>
